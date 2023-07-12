@@ -1,0 +1,2 @@
+#This is a small python progrm to just print Hello world message.
+print("Hello World of Python")
